@@ -139,7 +139,7 @@ hasil dari model.h5 vgg
 ![image](https://github.com/user-attachments/assets/0690c341-6f76-4a1e-b989-11f373a4acfa)
 
 
-cara runnningnya di windows dengan menginstall
+cara runnningnya di windows dengan menginstall buka terminal di vs code dan  windows powershell
 
 python 3.11.0
 
